@@ -6,7 +6,7 @@
     "category": "Beginner",
     "description": "simple i-ii-iii-iv regular and alternate picking technique over the fretboard..",
     "bpm": "40-45 BPM",
-    "session": "4m"
+    "session": 4
   },
   {
     "id": "05",
@@ -15,7 +15,7 @@
     "category": "Proffessional",
     "description": "Never stop your fingers from running fast",
     "bpm": "62-65 BPM",
-    "session": "6m"
+    "session": 6
   },
   {
     "id": "02",
@@ -24,7 +24,7 @@
     "category": "Intermediate",
     "description": "Discover scales and modes starrting with a root note",
     "bpm": "62-65 BPM",
-    "session": "8m"
+    "session": 8
   },
   {
     "id": "03",
@@ -33,7 +33,7 @@
     "category": "Advanced",
     "description": "Start with an ionian mode then discover more",
     "bpm": "40-45 BPM",
-    "session": "5m"
+    "session": 5
   },
   {
     "id": "04",
@@ -42,7 +42,7 @@
     "category": "Advanced",
     "description": "Try more with arpeggios, your hand will feel like a roller coaster",
     "bpm": "78-82 BPM",
-    "session": "10m"
+    "session": 10
   },
   {
     "id": "06",
@@ -51,6 +51,6 @@
     "category": "Proffessional",
     "description": "Try playing with your fingers, avoid picking",
     "bpm": "40-45 BPM",
-    "session": "9m"
+    "session": 9
   }
 ]

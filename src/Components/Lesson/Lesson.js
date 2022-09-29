@@ -1,7 +1,7 @@
 import React from "react";
 
 const Lesson = (props) => {
-  console.log(props.lesson);
+  //   console.log(props.lesson);
   const { img, name, category, description, bpm, session } = props.lesson;
   return (
     <div>
@@ -24,7 +24,12 @@ const Lesson = (props) => {
             </h4>
 
             <div className="py-2">
-              <button className="btn btn-primary w-full">start picking</button>
+              <button
+                onClick={() => props.handleEvent(props.lesson)}
+                className="btn btn-primary w-full"
+              >
+                start picking
+              </button>
             </div>
           </div>
         </div>
