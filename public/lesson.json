@@ -1,0 +1,56 @@
+[
+  {
+    "id": "01",
+    "img": "https://musicindustryhowtoimages.s3.amazonaws.com/wp-content/uploads/2019/09/18234323/hold-guitar-pick-correctly.jpg",
+    "name": "Picking",
+    "category": "Beginner",
+    "description": "simple i-ii-iii-iv regular and alternate picking technique over the fretboard..",
+    "bpm": "40-45 BPM",
+    "session": "4m"
+  },
+  {
+    "id": "05",
+    "img": "https://i.ytimg.com/vi/Q81IlMyIITw/maxresdefault.jpg",
+    "name": "Legato",
+    "category": "Proffessional",
+    "description": "Never stop your fingers from running fast",
+    "bpm": "62-65 BPM",
+    "session": "6m"
+  },
+  {
+    "id": "02",
+    "img": "https://www.wikihow.com/images/thumb/2/26/Learn-Guitar-Scales-Step-7-Version-3.jpg/v4-460px-Learn-Guitar-Scales-Step-7-Version-3.jpg.webp",
+    "name": "Scales",
+    "category": "Intermediate",
+    "description": "Discover scales and modes starrting with a root note",
+    "bpm": "62-65 BPM",
+    "session": "8m"
+  },
+  {
+    "id": "03",
+    "img": "https://qph.cf2.quoracdn.net/main-qimg-2b1668a4b257396e97720384c6283da6-pjlq",
+    "name": "Modes",
+    "category": "Advanced",
+    "description": "Start with an ionian mode then discover more",
+    "bpm": "40-45 BPM",
+    "session": "5m"
+  },
+  {
+    "id": "04",
+    "img": "https://acousticguitarlessonsonline.net/images/Webpage-Pictures/How-To-Solo-Guitar-Arpeggio-YT-Thumbnail.jpg",
+    "name": "Arpeggios",
+    "category": "Advanced",
+    "description": "Try more with arpeggios, your hand will feel like a roller coaster",
+    "bpm": "78-82 BPM",
+    "session": "10m"
+  },
+  {
+    "id": "06",
+    "img": "https://cdn.mos.cms.futurecdn.net/Qn7QrZXdZRpccvRfMnu4vX-1200-80.jpg",
+    "name": "Sweap",
+    "category": "Proffessional",
+    "description": "Try playing with your fingers, avoid picking",
+    "bpm": "40-45 BPM",
+    "session": "9m"
+  }
+]
