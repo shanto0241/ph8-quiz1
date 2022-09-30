@@ -2,6 +2,7 @@ import "./App.css";
 import Activity from "./Components/Activity/Activity";
 import Header from "./Components/Header/Header";
 import Profile from "./Components/Profile/Profile";
+import Questions from "./Components/questions/Questions";
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <Header />
       <Profile />
       <Activity />
+      <Questions />
     </div>
   );
 }
