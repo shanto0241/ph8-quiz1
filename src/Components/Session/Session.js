@@ -10,7 +10,7 @@ const Session = (props) => {
   const [breakData, setBreakData] = useState([]);
   const [showSingleTime, setShowTIme] = useState([]);
 
-  const diffToast = () => toast("You've done well. Cheers m/");
+  const diffToast = () => toast("You've done well. Cheers!");
 
   useEffect(() => {
     fetch("break.json")
@@ -47,7 +47,7 @@ const Session = (props) => {
         <div className="flex justify-between items-center rounded-xl border-2 my-4 border-gray-300">
           <p className="p-2">break time:</p>
           <p id="break-time" className="p-2">
-            {showSingleTime.time} <span>minuites</span>
+            {showSingleTime.time} <span>seconds</span>
           </p>
         </div>
         <div className="py-2">

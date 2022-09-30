@@ -39,19 +39,18 @@ const Questions = () => {
         </div>
       </div>
       <div
-        tabIndex={0}
+        tabIndex={3}
         className="collapse collapse-arrow border border-base-300 bg-base-100 rounded-box shadow-lg"
       >
         <div className="collapse-title text-xl font-medium">
-          How does react work?
+          what is the uses of useEffect except data loading?
         </div>
         <div className="collapse-content">
           <p>
-            ReactJS divides the UI into isolated reusable pieces of code known
-            as components. React components work similarly to JavaScript
-            functions as they accept arbitrary inputs called properties or
-            props. It's possible to have as many components as necessary without
-            cluttering your code.
+            useEffect() is for side-effects. A functional React component uses
+            props and/or state to calculate the output. If the functional
+            component makes calculations that don't target the output value,
+            then these calculations are named side-effects
           </p>
         </div>
       </div>
