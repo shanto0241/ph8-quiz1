@@ -1,6 +1,8 @@
 import React from "react";
 import logo from "../../images/gh-logo.png";
 import user from "../../images/student-4.png";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faLocation } from "@fortawesome/free-solid-svg-icons";
 
 const Header = () => {
   return (
@@ -13,7 +15,10 @@ const Header = () => {
             <p className="text-gray-50 text-md tracking-wide font-sans">
               Augusta Zukowich
             </p>
-            <p className="text-sm text-gray-300">Melbourne, Australia</p>
+            <div className="text-gray-300 flex items-center gap-2">
+              <FontAwesomeIcon className=" w-4" icon={faLocation} />
+              <p className="text-sm">inlo, Austria</p>
+            </div>
           </div>
           <img
             src={user}

@@ -22,7 +22,7 @@ const Activity = () => {
       <div className="grid grid-cols-4 w-10/12 m-auto">
         <div className=" col-span-3">
           <h1 className="text-start text-3xl font-mono underline mb-10">
-            select your lesson: {lessons.length}
+            select your lesson
           </h1>
           <div className="grid grid-cols-3  m-auto">
             {lessons.map((lesson) => (
